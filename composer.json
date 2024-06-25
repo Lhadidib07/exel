@@ -1,0 +1,17 @@
+{
+    "name": "lhadi/exel02",
+    "autoload": {
+        "psr-4": {
+            "Lhadi\\Exel02\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lhadi",
+            "email": "lhadidib07@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
